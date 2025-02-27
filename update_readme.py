@@ -21,7 +21,7 @@ def fetch_github_data():
     followers = user_data.get("followers", 0)
     following = user_data.get("following", 0)
 
-    repo_names = [repo["name"] for repo in repos_data[:5]]  # آخر 5 مشاريع
+    repo_names = [repo.get("name", "Unknown") for repo in repos_data[:5] if isinstance(repo, dict)]
     top_repos = "\n".join([f"- [{repo}](https://github.com/{USERNAME}/{repo})" for repo in repo_names])
 
     return repo_count, followers, following, top_repos
