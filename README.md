@@ -46,9 +46,11 @@ Hey there! I'm **Abdelrhman Ahmad**, a passionate **AI & Data Science** student 
 ---
 <h1 align="center"><strong>📊 GitHub Stats</strong></h1>
 
+<!-- STATS_START -->
 ![](https://github-readme-stats.vercel.app/api?username=Abdelrhman941&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdelrhman941&theme=github_dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrhman941&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+<!-- STATS_END -->
 
 ---
 
