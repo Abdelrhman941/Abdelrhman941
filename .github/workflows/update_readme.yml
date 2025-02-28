@@ -29,6 +29,10 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
+
+          # التحقق مما إذا كانت هناك تغييرات قبل تنفيذ commit
+          git diff --quiet && exit 0
+
           git add README.md
           git commit -m "Updated Visitor Count"
           git push
