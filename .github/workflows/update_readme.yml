@@ -2,7 +2,7 @@ name: Update Visitor Count
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # يتم التحديث كل 6 ساعات
+    - cron: "0 */6 * * *"
   workflow_dispatch:  # إمكانية تشغيله يدويًا
 
 jobs:
@@ -31,7 +31,10 @@ jobs:
           git config --global user.email "github-actions@github.com"
 
           # التحقق مما إذا كانت هناك تغييرات قبل تنفيذ commit
-          git diff --quiet && exit 0
+          if git diff --quiet; then
+            echo "No changes detected. Skipping commit."
+            exit 0
+          fi
 
           git add README.md
           git commit -m "Updated Visitor Count"
