@@ -71,10 +71,6 @@ I'm deeply interested in **Machine Learning, Deep Learning, and AI applications*
   <img src="https://github-profile-trophy.vercel.app/?username=Abdelrhman941&theme=algolia&no-frame=false&no-bg=false&margin-w=5">
 </p>
 
-## 👀 **Visitor Count**  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdelrhman941&color=blue&style=flat">
-</p>
 
 ## 🌐 **Connect with Me**  
 📩 **Feel free to reach out!**  
