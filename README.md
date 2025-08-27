@@ -7,14 +7,6 @@ I'm driven by a clear goal:
 
 ---
 
-### 🚧 Currently Working On
-
-- 🔬 Advancing my knowledge in **ML, DL, and model optimization**
-- 📊 Enhancing my **data preprocessing, EDA, and feature engineering** pipelines
-- 🧠 Exploring **RL (DQN)** and pushing the boundaries of what's possible in AI
-
----
-
 ### 💼 What I Focus On
 
 - 🚀 Building efficient AI-powered apps and systems
@@ -59,31 +51,5 @@ I'm driven by a clear goal:
         <img src="https://github-readme-stats.vercel.app/api?username=Abdelrhman941&theme=dracula&include_all_commits=true&count_private=true" width="400px">
       </td>
     </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrhman941&theme=dracula&layout=compact" width="350px">
-      </td>
-    </tr>
   </table>
 </div>
-
-
----
-
-<h2 align="center"><strong>🏆 GitHub Trophies</strong></h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdelrhman941&theme=algolia&margin-w=5">
-</p>
-
----
-
-## 🌐 Let's Connect
-
-📩 I'm always open to collaboration, mentoring, and creative tech discussions.
-
-<p align="center">
-  <a href="https://instagram.com/3bdel_r7man_3zzat"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-  <a href="https://linkedin.com/in/abdelrhman-ahmad-13a52b269"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/22336941"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-</p>
