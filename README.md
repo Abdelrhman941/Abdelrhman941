@@ -99,34 +99,6 @@
 <p align="center"> <a href="https://abdelrhman941.github.io" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white&style=for-the-badge"> </a> </p>
 
 
-
-<style>
-.dark-btn {
-    display: inline-block;
-    padding: 10px 22px;
-    font-size: 16px;
-    font-weight: 500;
-    text-decoration: none;
-    color: #f0f0f0; /* text color */
-    background: #2c2c2c; /* dark gray */
-    border-radius: 8px;
-    transition: all 0.3s ease;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.4);
-}
-
-.dark-btn:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 12px rgba(0,0,0,0.6);
-    background: #3a3a3a; /* slightly lighter on hover */
-}
-
-.dark-btn:active {
-    transform: translateY(0);
-    box-shadow: 0 4px 6px rgba(0,0,0,0.4);
-    background: #1f1f1f; /* slightly darker on click */
-}
-</style>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&animation=twinkling"/>
 </div>
