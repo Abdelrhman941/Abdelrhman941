@@ -119,6 +119,9 @@
 </table>
 </div>
 
+<img src="https://raw.githubusercontent.com/Abdelrhman941/Abdelrhman941/output/snake.svg" alt="Snake animation" />
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&animation=twinkling"/>
 </div>
