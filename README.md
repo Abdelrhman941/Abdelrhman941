@@ -96,11 +96,7 @@
 
 ## **My Portfolio**
 
-<p align="center">
-  <a href="https://abdelrhman941.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white&style=for-the-badge">
-  </a>
-</p>
+<p align="center"> <a href="https://abdelrhman941.github.io" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white&style=for-the-badge"> </a> </p>
 
 
 
