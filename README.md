@@ -20,8 +20,14 @@
 - Interested in real-world applications in **Computer Vision, NLP, and Time Series Analysis**.  
 - Advocate for **open-source, collaboration, and continuous learning**.  
 
-<p align="center"> <a href="https://abdelrhman941.github.io" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white&style=for-the-badge"> </a> </p>
-
+<div align="center" style="display: inline-flex; gap: 10px;">
+  <a href="https://abdelrhman941.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&color=000000&height=35" />
+  </a>
+  <a href="https://github.com/Abdelrhman941/Abdelrhman941/blob/main/cv/Abdelrhman_Ezzat_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-555555?style=for-the-badge&color=555555&height=35" />
+  </a>
+</div>
 
 <div align="center">
   <img width="900" height="20" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
