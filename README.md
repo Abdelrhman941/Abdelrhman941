@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=ABDELRHMAN&fontSize=45&fontColor=ffffff&fontAlignY=55&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Hi%20I%20am%20Abdelrhman&fontSize=45&fontColor=ffffff&fontAlignY=55&animation=twinkling&color=gradient&customColorList=%236,%2311,%2320" />
 </p>
 
 <div align="center">
@@ -19,6 +19,9 @@
 - Strong foundation in **Mathematics, Statistics, and Programming**.  
 - Interested in real-world applications in **Computer Vision, NLP, and Time Series Analysis**.  
 - Advocate for **open-source, collaboration, and continuous learning**.  
+
+<p align="center"> <a href="https://abdelrhman941.github.io" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white&style=for-the-badge"> </a> </p>
+
 
 <div align="center">
   <img width="900" height="20" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
@@ -92,15 +95,6 @@
 
 <div align="center">
   <img width="900" height="20" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-</div>
-
-## **My Portfolio**
-
-<p align="center"> <a href="https://abdelrhman941.github.io" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white&style=for-the-badge"> </a> </p>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&animation=twinkling"/>
 </div>
 
 ## **GitHub Analytics**
