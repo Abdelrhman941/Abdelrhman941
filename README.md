@@ -100,7 +100,7 @@
   <a href="https://abdelrhman941.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://github.com/Abdelrhman941/Abdelrhman941/blob/main/cv/Abdelrhman_CV.pdf" target="_blank">
+  <a href="https://github.com/Abdelrhman941/Abdelrhman941/raw/main/cv/Abdelrhman_Ezzat_CV.pdf" download>
     <img src="https://img.shields.io/badge/CV-Download-00599C?logo=adobeacrobatreader&logoColor=white&style=for-the-badge">
   </a>
 </p>
