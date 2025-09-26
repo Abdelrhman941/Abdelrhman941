@@ -119,6 +119,10 @@
 </table>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelrhman941&theme=github-compact&hide_border=true&bg_color=0d1117" width="95%"/>
+</div>
+
 <img src="https://raw.githubusercontent.com/Abdelrhman941/Abdelrhman941/output/snake.svg" alt="Snake animation" />
 
 
