@@ -101,9 +101,10 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://github.com/Abdelrhman941/Abdelrhman941/raw/main/cv/Abdelrhman_Ezzat_CV.pdf" download>
-    <img src="https://img.shields.io/badge/CV-Download-00599C?logo=adobeacrobatreader&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/CV-Download-EA4335?logo=adobeacrobatreader&logoColor=white&style=for-the-badge">
   </a>
 </p>
+
 
 
 <style>
@@ -143,14 +144,12 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Abdelrhman941&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="300" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Abdelrhman941&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="400" height="200"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrhman941&layout=compact&langs_count=8&theme=dark" alt="Top Languages" width="300" height="200"/>
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrhman941&theme=dark&hide_border=false" alt="Streak Stats" width="300" height="200"/>
-    </td>
+
   </tr>
 </table>
 </div>
@@ -160,42 +159,15 @@
 </div>
 
 
-## 🤝 **Let's Connect**
+## **Let's Connect 🤝**
 
-<div align="center">
+<p align="center">
+  <a href="mailto:abdalarhmanezzat@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
+  <a href="https://www.linkedin.com/in/abdelrhman-a-ezzat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
+  <a href="https://www.kaggle.com/abdelrhmanahmedezzat"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="35"/></a>
+  <a href="https://t.me/Abdelr7man_3zzat"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35"/></a>
+</p>
 
-**Ready to collaborate on innovative AI projects? Let's build something amazing together!**
-
-<br/>
-
-<table>
-<tr>
-<td align="center">
-  <a href="mailto:abdalarhmanezzat@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-  </a>
-</td>
-<td align="center">
-  <a href="https://www.linkedin.com/in/abdelrhman-a-ezzat">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-  </a>
-</td>
-<td align="center">
-  <a href="https://www.kaggle.com/abdelrhmanahmedezzat">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="35"/>
-  </a>
-</td>
-<td align="center">
-  <a href="https://t.me/Abdelr7man_3zzat">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35"/>
-  </a>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
