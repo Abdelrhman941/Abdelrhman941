@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=ABDELRHMAN&fontSize=45&fontColor=ffffff&fontAlignY=55&animation=twinkling"/>
 </p>
@@ -96,12 +95,16 @@
 </div>
 
 ## **My CV & Portfolio**
-<div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
 
-  <a href="https://abdelrhman941.github.io/" target="_blank" class="dark-btn">Explore Portfolio</a>
-  <a href="https://github.com/Abdelrhman941/Abdelrhman941/blob/main/cv/Abdelrhman_CV.pdf" target="_blank" class="dark-btn">Download CV</a>
+<p align="center">
+  <a href="https://abdelrhman941.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://github.com/Abdelrhman941/Abdelrhman941/blob/main/cv/Abdelrhman_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CV-Download-00599C?logo=adobeacrobatreader&logoColor=white&style=for-the-badge">
+  </a>
+</p>
 
-</div>
 
 <style>
 .dark-btn {
