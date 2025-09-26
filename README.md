@@ -94,14 +94,11 @@
   <img width="900" height="20" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </div>
 
-## **My CV & Portfolio**
+## **My Portfolio**
 
 <p align="center">
   <a href="https://abdelrhman941.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="https://github.com/Abdelrhman941/Abdelrhman941/raw/main/cv/Abdelrhman_Ezzat_CV.pdf" download>
-    <img src="https://img.shields.io/badge/CV-Download-EA4335?logo=adobeacrobatreader&logoColor=white&style=for-the-badge">
   </a>
 </p>
 
