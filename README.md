@@ -21,7 +21,7 @@
 - Advocate for **open-source, collaboration, and continuous learning**.  
 
 <div align="center" style="display: inline-flex; gap: 10px;">
-  <a href="https://abdelrhman941.github.io" target="_blank">
+  <a href="https://abdelrhman941.github.io/MyPortfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&color=000000&height=35" />
   </a>
   <a href="https://github.com/Abdelrhman941/Abdelrhman941/blob/main/cv/Abdelrhman_Ezzat_CV.pdf" target="_blank">
