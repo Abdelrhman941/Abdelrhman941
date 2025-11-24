@@ -1,0 +1,114 @@
+<svg viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <!-- Flame glow filter -->
+    <filter id="flameGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="8" result="blur2"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="12" result="blur3"/>
+
+      <feColorMatrix in="blur1" type="matrix"
+        values="1 0 0 0 0
+                0 0.4 0 0 0
+                0 0 0.1 0 0
+                0 0 0 0.8 0" result="glow1"/>
+
+      <feColorMatrix in="blur2" type="matrix"
+        values="1 0 0 0 0
+                0 0.3 0 0 0
+                0 0 0 0 0
+                0 0 0 0.5 0" result="glow2"/>
+
+      <feColorMatrix in="blur3" type="matrix"
+        values="1 0 0 0 0
+                0 0.6 0 0 0
+                0 0 0.2 0 0
+                0 0 0 0.3 0" result="glow3"/>
+
+      <feMerge>
+        <feMergeNode in="glow3"/>
+        <feMergeNode in="glow2"/>
+        <feMergeNode in="glow1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Gradient definitions for flame colors -->
+    <linearGradient id="flameGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff4500;stop-opacity:1">
+        <animate attributeName="stop-color"
+          values="#ff4500;#ff6347;#ff8c00;#ffd700;#ff8c00;#ff6347;#ff4500"
+          dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#ff6347;stop-opacity:1">
+        <animate attributeName="stop-color"
+          values="#ff6347;#ff8c00;#ffd700;#ff4500;#ffd700;#ff8c00;#ff6347"
+          dur="3.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#ffd700;stop-opacity:1">
+        <animate attributeName="stop-color"
+          values="#ffd700;#ff8c00;#ff4500;#ff6347;#ff4500;#ff8c00;#ffd700"
+          dur="4.5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="flameGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffd700;stop-opacity:0.8">
+        <animate attributeName="stop-color"
+          values="#ffd700;#ff4500;#ff8c00;#ff6347;#ff8c00;#ff4500;#ffd700"
+          dur="3.8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#ff8c00;stop-opacity:0.8">
+        <animate attributeName="stop-color"
+          values="#ff8c00;#ff6347;#ffd700;#ff4500;#ffd700;#ff6347;#ff8c00"
+          dur="4.2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#ff4500;stop-opacity:0.8">
+        <animate attributeName="stop-color"
+          values="#ff4500;#ffd700;#ff6347;#ff8c00;#ff6347;#ffd700;#ff4500"
+          dur="3.6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Main flame border path with organic waves -->
+  <path d="M 0,50 Q 150,20 300,45 T 600,50 T 900,48 T 1200,50 L 1200,100 L 0,100 Z"
+    fill="url(#flameGrad1)"
+    filter="url(#flameGlow)"
+    opacity="0.9">
+    <animate attributeName="d"
+      values="M 0,50 Q 150,20 300,45 T 600,50 T 900,48 T 1200,50 L 1200,100 L 0,100 Z;
+              M 0,45 Q 150,25 300,50 T 600,45 T 900,52 T 1200,48 L 1200,100 L 0,100 Z;
+              M 0,48 Q 150,30 300,42 T 600,52 T 900,45 T 1200,50 L 1200,100 L 0,100 Z;
+              M 0,50 Q 150,20 300,45 T 600,50 T 900,48 T 1200,50 L 1200,100 L 0,100 Z"
+      dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Secondary flame layer for depth -->
+  <path d="M 0,60 Q 200,35 400,58 T 800,62 T 1200,60 L 1200,100 L 0,100 Z"
+    fill="url(#flameGrad2)"
+    filter="url(#flameGlow)"
+    opacity="0.7">
+    <animate attributeName="d"
+      values="M 0,60 Q 200,35 400,58 T 800,62 T 1200,60 L 1200,100 L 0,100 Z;
+              M 0,58 Q 200,40 400,62 T 800,58 T 1200,62 L 1200,100 L 0,100 Z;
+              M 0,62 Q 200,38 400,60 T 800,60 T 1200,58 L 1200,100 L 0,100 Z;
+              M 0,60 Q 200,35 400,58 T 800,62 T 1200,60 L 1200,100 L 0,100 Z"
+      dur="5s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Accent flame particles -->
+  <circle cx="300" cy="40" r="3" fill="#ffd700" filter="url(#flameGlow)" opacity="0.8">
+    <animate attributeName="cy" values="40;25;40" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0.3;0.8" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="600" cy="45" r="3" fill="#ff8c00" filter="url(#flameGlow)" opacity="0.7">
+    <animate attributeName="cy" values="45;30;45" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0.2;0.7" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="900" cy="42" r="3" fill="#ff6347" filter="url(#flameGlow)" opacity="0.75">
+    <animate attributeName="cy" values="42;28;42" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.75;0.25;0.75" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+</svg>
