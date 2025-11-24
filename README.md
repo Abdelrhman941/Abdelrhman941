@@ -9,7 +9,7 @@
 
 <!------------------------------------------------------------------>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&animation=twinkling"/>
 </div>
 
 <!------------------------------------------------------------------>
@@ -231,6 +231,10 @@ philosophy: |
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Abdelrhman941/Abdelrhman941/output/snake.svg" alt="Snake Animation" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&animation=twinkling"/>
 </div>
 
 <!------------------------------------------------------------------>
