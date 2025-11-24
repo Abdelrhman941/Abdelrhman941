@@ -1,39 +1,56 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Hi%20I%20am%20Abdelrhman&fontSize=45&fontColor=ffffff&fontAlignY=55&animation=twinkling&color=gradient&customColorList=%236,%2311,%2320" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Hi%20I%20am%20Abdelrhman&fontSize=45&fontColor=ffffff&fontAlignY=45&animation=twinkling&color=gradient&customColorList=%300" />
 </p>
 
+<!------------------------------------------------------------------>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+WELCOME+TO+MY+GITHUB+%E2%9A%A1;%F0%9F%A4%96+AI+%26+DATA+SCIENCE+STUDENT;%F0%9F%9A%80+MENOUFIA+UNIVERSITY;%F0%9F%A7%A0+MACHINE+LEARNING+ENGINEER;%E2%9C%A8+BUILDING+THE+FUTURE+WITH+AI" alt="Dramatic Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+WELCOME+TO+MY+GITHUB+%E2%9A%A1;%F0%9F%A4%96+AI+%26+DATA+SCIENCE+STUDENT;MENOUFIA+UNIVERSITY;%F0%9F%A7%A0+MACHINE+LEARNING+ENGINEER;%E2%9C%A8+BUILDING+THE+FUTURE+WITH+AI" alt="Dramatic Typing" />
 </div>
 
-<h3 align="center">
-  <em>Transforming ideas into <strong>intelligent solutions</strong> using cutting-edge ML & DL </em>
-</h3>
-
+<!------------------------------------------------------------------>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&animation=twinkling"/>
 </div>
 
-## **About Me**
-- Focused on creating **efficient AI-powered systems** with clean, reproducible ML pipelines.
-- Strong foundation in **Mathematics, Statistics, and Programming**.
-- Interested in real-world applications in **Computer Vision, NLP, and Time Series Analysis**.
-- Advocate for **open-source, collaboration, and continuous learning**.
+<!------------------------------------------------------------------>
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> **About Me**
+
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px">
+
+```yaml
+name          : Abdelrhman Ahmed Ezzat
+located_in    : Kafr el-Sheikh, Egypt
+current_focus : AI & Data Science
+education     : AI @ Menoufia University
+interests     :
+  - Machine Learning Engineering
+  - Deep Learning & Neural Networks
+  - Computer Vision & NLP
+  - Reinforcement Learning
+  - Time Series Analysis
+  
+philosophy: |
+  "Building intelligent systems through 
+  clean code, reproducible pipelines, 
+  and continuous learning"
+```
 
 <div align="center" style="display: inline-flex; gap: 10px;">
   <a href="https://abdelrhman941.github.io/MyPortfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&color=000000&height=35" />
-  </a>
+<img src="https://img.shields.io/badge/View_Portfolio-443627?style=for-the-badge&logoColor=white&height=40" />  </a>
   <a href="https://github.com/Abdelrhman941/Abdelrhman941/blob/main/cv/Abdelrhman_Ezzat_CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-555555?style=for-the-badge&color=555555&height=35" />
-  </a>
+<img src="https://img.shields.io/badge/Download_Resume-D98324?style=for-the-badge&logoColor=white&height=40" />  </a>
 </div>
+
 
 <div align="center">
-  <img width="900" height="20" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## **Technical Skills**
+<!------------------------------------------------------------------>
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> **My Skills**
 
 <table align="center">
   <tr>
@@ -196,49 +213,43 @@
   </tr>
 </table>
 
-
 <div align="center">
-  <img width="900" height="20" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## **GitHub Analytics**
+<!------------------------------------------------------------------>
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> **Github Stats**
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdelrhman941&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=E9A319&icon_color=FAD59A&text_color=FAD59A&border_radius=10" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrhman941&theme=radical&hide_border=true&background=0d1117&stroke=E9A319&ring=FAD59A&fire=E9A319&currStreakLabel=FAD59A&border_radius=10" alt="GitHub Streak"/>
+</div>
+
 
 <div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Abdelrhman941&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="400" height="200"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrhman941&layout=compact&langs_count=8&theme=dark" alt="Top Languages" width="300" height="200"/>
-    </td>
-
-  </tr>
-</table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelrhman941&theme=react-dark&hide_border=true&bg_color=0d1117&color=FAD59A&line=E9A319&point=A86523&area=true&area_color=E9A319" width="98%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelrhman941&theme=github-compact&hide_border=true&bg_color=0d1117" width="95%"/>
+  <img src="https://raw.githubusercontent.com/Abdelrhman941/Abdelrhman941/output/snake.svg" alt="Snake Animation" width="100%"/>
 </div>
-
-<img src="https://raw.githubusercontent.com/Abdelrhman941/Abdelrhman941/output/snake.svg" alt="Snake animation" />
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&animation=twinkling"/>
 </div>
 
-
-## **Let's Connect 🤝**
+<!------------------------------------------------------------------>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40px" /> Let's Connect
 
 <p align="center">
   <a href="mailto:abdalarhmanezzat@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
   <a href="https://www.linkedin.com/in/abdelrhman-a-ezzat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
   <a href="https://www.kaggle.com/abdelrhmanahmedezzat"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="35"/></a>
-
 </p>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A86523,50:E9A319,100:FAD59A&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=E9A319&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+build+something+amazing+together" alt="Footer Message" />
 </p>
