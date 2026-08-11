@@ -292,7 +292,7 @@ An end-to-end **AI learning platform** combining a real-time AI avatar, streamin
 ## Let’s Connect
 
 <div align="center">
-  <a href="https://abdelrhman941.github.io/MyPortfolio">
+  <a href="https://abdelrhman-portfolio-site.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" />
   </a>
   <a href="https://github.com/Abdelrhman941/Abdelrhman941/blob/main/cv/Abdelrhman_Ezzat_CV.pdf">
